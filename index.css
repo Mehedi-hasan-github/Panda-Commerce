@@ -1,0 +1,39 @@
+body{
+    background-color: gainsboro;
+}
+.navbar-bg{
+    background-color: gray;
+    color: wheat;
+}
+#Subscribe-btn{
+    background-color: #e9327b;
+    color:white;
+    border-radius: 8px;
+    border: none;
+    margin-top: 8px;
+    padding: 2px 15px;
+}
+.bg-custom{
+    background-color: #feeae9;
+}
+.slides-bg{
+
+    background-color: #feeae9;
+}
+.buynow-btn{
+    border: none;
+    background-color: #e9327b;
+    border-radius:8px;
+    text-decoration: none;
+    padding: 3px 8px;
+    color: white;
+}
+.catagories-one{
+    background-color:teal ;
+}
+.catagories-two{
+    background-color:deeppink ;
+}
+.catagories-three{
+    background-color:#900C3F ;
+}
